@@ -1,4 +1,4 @@
-const ph = require('../quizzes/ph.json');
+const ph = require('../quizzes/ph.json');      //quizzes user on a random hiragana
 module.exports = {
 	name: 'practice-hiragana',
 	description: 'Get a random hiragana character and answer with correct romaji',
