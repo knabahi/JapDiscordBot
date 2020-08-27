@@ -1,0 +1,2 @@
+# JapDiscordBot
+Japanese Discord Bot
