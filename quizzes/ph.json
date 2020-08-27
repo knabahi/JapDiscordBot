@@ -1,0 +1,418 @@
+[
+	{
+		"question": "What basic hiragana is this: あ?",
+		"answers": ["a"]
+	},
+	{
+		"question": "What basic hiragana is this: い?",
+		"answers": ["i"]
+    },
+    {
+		"question": "What basic hiragana is this: う?",
+		"answers": ["u"]
+    },
+    {
+		"question": "What basic hiragana is this: え?",
+		"answers": ["e"]
+    },
+    {
+		"question": "What basic hiragana is this: お?",
+		"answers": ["o"]
+    },
+    {
+		"question": "What basic hiragana is this: か?",
+		"answers": ["ka"]
+    },
+    {
+		"question": "What basic hiragana is this: き?",
+		"answers": ["ki"]
+    },
+    {
+		"question": "What basic hiragana is this: く?",
+		"answers": ["ku"]
+    },
+    {
+		"question": "What basic hiragana is this: け?",
+		"answers": ["ke"]
+    },
+    {
+		"question": "What basic hiragana is this: こ?",
+		"answers": ["ko"]
+    },
+    {
+		"question": "What basic hiragana is this: さ?",
+		"answers": ["sa"]
+    },
+    {
+		"question": "What basic hiragana is this: し?",
+		"answers": ["shi"]
+    },
+    {
+		"question": "What basic hiragana is this: す?",
+		"answers": ["su"]
+    },
+    {
+		"question": "What basic hiragana is this: せ?",
+		"answers": ["se"]
+    },
+    {
+		"question": "What basic hiragana is this: そ?",
+		"answers": ["so"]
+    },
+    {
+		"question": "What basic hiragana is this: た?",
+		"answers": ["ta"]
+    },
+    {
+		"question": "What basic hiragana is this: ち?",
+		"answers": ["chi"]
+    },
+    {
+		"question": "What basic hiragana is this: つ?",
+		"answers": ["tsu"]
+    },
+    {
+		"question": "What basic hiragana is this: て?",
+		"answers": ["te"]
+    },
+    {
+		"question": "What basic hiragana is this: と?",
+		"answers": ["to"]
+    },
+    {
+		"question": "What basic hiragana is this: な?",
+		"answers": ["na"]
+    },
+    {
+		"question": "What basic hiragana is this: に?",
+		"answers": ["ni"]
+    },
+    {
+		"question": "What basic hiragana is this: ぬ?",
+		"answers": ["nu"]
+    },
+    {
+		"question": "What basic hiragana is this: ね?",
+		"answers": ["ne"]
+    },
+    {
+		"question": "What basic hiragana is this: の?",
+		"answers": ["no"]
+    },
+    {
+		"question": "What basic hiragana is this: は?",
+		"answers": ["ha"]
+    },
+    {
+		"question": "What basic hiragana is this: ひ?",
+		"answers": ["hi"]
+    },
+    {
+		"question": "What basic hiragana is this: ふ?",
+		"answers": ["fu"]
+    },
+    {
+		"question": "What basic hiragana is this: へ?",
+		"answers": ["he"]
+    },
+    {
+		"question": "What basic hiragana is this: ほ?",
+		"answers": ["ho"]
+    },
+    {
+		"question": "What basic hiragana is this: ま?",
+		"answers": ["ma"]
+    },
+    {
+		"question": "What basic hiragana is this: み?",
+		"answers": ["mi"]
+    },
+    {
+		"question": "What basic hiragana is this: む?",
+		"answers": ["mu"]
+    },
+    {
+		"question": "What basic hiragana is this: め?",
+		"answers": ["me"]
+    },
+    {
+		"question": "What basic hiragana is this: も?",
+		"answers": ["mo"]
+    },
+    {
+		"question": "What basic hiragana is this: や?",
+		"answers": ["ya"]
+    },
+    {
+		"question": "What basic hiragana is this: ゆ?",
+		"answers": ["yu"]
+    },
+    {
+		"question": "What basic hiragana is this: よ?",
+		"answers": ["yo"]
+    },
+    {
+		"question": "What basic hiragana is this: ら?",
+		"answers": ["ra"]
+    },
+    {
+		"question": "What basic hiragana is this: り?",
+		"answers": ["ri"]
+    },
+    {
+		"question": "What basic hiragana is this: る?",
+		"answers": ["ru"]
+    },
+    {
+		"question": "What basic hiragana is this: れ?",
+		"answers": ["re"]
+    },
+    {
+		"question": "What basic hiragana is this: ろ?",
+		"answers": ["ro"]
+    },
+    {
+		"question": "What basic hiragana is this: わ?",
+		"answers": ["wa"]
+    },
+    {
+		"question": "What basic hiragana is this: を?",
+		"answers": ["wo"]
+    },
+    {
+		"question": "What basic hiragana is this: ん?",
+		"answers": ["n"]
+    },
+    {
+		"question": "What voiced hiragana is this: が?",
+		"answers": ["ga"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぎ?",
+		"answers": ["gi"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぐ?",
+		"answers": ["gu"]
+    },
+    {
+		"question": "What voiced hiragana is this: げ?",
+		"answers": ["ge"]
+    },
+    {
+		"question": "What voiced hiragana is this: ご?",
+		"answers": ["go"]
+    },
+    {
+		"question": "What voiced hiragana is this: ざ?",
+		"answers": ["za"]
+    },
+    {
+		"question": "What voiced hiragana is this: じ?",
+		"answers": ["ji"]
+    },
+    {
+		"question": "What voiced hiragana is this: ず?",
+		"answers": ["zu"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぜ?",
+		"answers": ["ze"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぞ?",
+		"answers": ["zo"]
+    },
+    {
+		"question": "What voiced hiragana is this: だ?",
+		"answers": ["da"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぢ?",
+		"answers": ["ji"]
+    },
+    {
+		"question": "What voiced hiragana is this: づ?",
+		"answers": ["zu"]
+    },
+    {
+		"question": "What voiced hiragana is this: で?",
+		"answers": ["de"]
+    },
+    {
+		"question": "What voiced hiragana is this: ど?",
+		"answers": ["do"]
+    },
+    {
+		"question": "What voiced hiragana is this: ば?",
+		"answers": ["ba"]
+    },
+    {
+		"question": "What voiced hiragana is this: び?",
+		"answers": ["bi"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぶ?",
+		"answers": ["bu"]
+    },
+    {
+		"question": "What voiced hiragana is this: べ?",
+		"answers": ["be"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぼ?",
+		"answers": ["bo"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぱ?",
+		"answers": ["pa"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぴ?",
+		"answers": ["pi"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぷ?",
+		"answers": ["pu"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぺ?",
+		"answers": ["pe"]
+    },
+    {
+		"question": "What voiced hiragana is this: ぽ?",
+		"answers": ["po"]
+    },
+    {
+		"question": "What combo hiragana is this: きゃ?",
+		"answers": ["kya"]
+    },
+    {
+		"question": "What combo hiragana is this: きゅ?",
+		"answers": ["kyu"]
+    },
+    {
+		"question": "What combo hiragana is this: きょ?",
+		"answers": ["kyo"]
+    },
+    {
+		"question": "What combo hiragana is this: しゃ?",
+		"answers": ["sha"]
+    },
+    {
+		"question": "What combo hiragana is this: しゅ?",
+		"answers": ["shu"]
+    },
+    {
+		"question": "What combo hiragana is this: しょ?",
+		"answers": ["sho"]
+    },
+    {
+		"question": "What combo hiragana is this: ちゃ?",
+		"answers": ["cha"]
+    },
+    {
+		"question": "What combo hiragana is this: ちゅ?",
+		"answers": ["chu"]
+    },
+    {
+		"question": "What combo hiragana is this: ちょ?",
+		"answers": ["cho"]
+    },
+    {
+		"question": "What combo hiragana is this: にゃ?",
+		"answers": ["nya"]
+    },
+    {
+		"question": "What combo hiragana is this: にゅ?",
+		"answers": ["nyu"]
+    },
+    {
+		"question": "What combo hiragana is this: にょ?",
+		"answers": ["nyo"]
+    },
+    {
+		"question": "What combo hiragana is this: ひゃ?",
+		"answers": ["hya"]
+    },
+    {
+		"question": "What combo hiragana is this: ひゅ?",
+		"answers": ["hyu"]
+    },
+    {
+		"question": "What combo hiragana is this: ひょ?",
+		"answers": ["hyo"]
+    },
+    {
+		"question": "What combo hiragana is this: みゃ?",
+		"answers": ["mya"]
+    },
+    {
+		"question": "What combo hiragana is this: みゅ?",
+		"answers": ["myu"]
+    },
+    {
+		"question": "What combo hiragana is this: みょ?",
+		"answers": ["myo"]
+    },
+    {
+		"question": "What combo hiragana is this: りゃ?",
+		"answers": ["rya"]
+    },
+    {
+		"question": "What combo hiragana is this: りゅ?",
+		"answers": ["ryu"]
+    },
+    {
+		"question": "What combo hiragana is this: りょ?",
+		"answers": ["ryo"]
+    },
+    {
+		"question": "What combo hiragana is this: ぎゃ?",
+		"answers": ["gya"]
+    },
+    {
+		"question": "What combo hiragana is this: ぎゅ?",
+		"answers": ["gyu"]
+    },
+    {
+		"question": "What combo hiragana is this: ぎょ?",
+		"answers": ["gyo"]
+    },
+    {
+		"question": "What combo hiragana is this: じゃ?",
+		"answers": ["ja"]
+    },
+    {
+		"question": "What combo hiragana is this: じゅ?",
+		"answers": ["ju"]
+    },
+    {
+		"question": "What combo hiragana is this: じょ?",
+		"answers": ["jo"]
+    },
+    {
+		"question": "What combo hiragana is this: びゃ?",
+		"answers": ["bya"]
+    },
+    {
+		"question": "What combo hiragana is this: びゅ?",
+		"answers": ["byu"]
+    },
+    {
+		"question": "What combo hiragana is this: びょ?",
+		"answers": ["byo"]
+    },
+    {
+		"question": "What combo hiragana is this: ぴゃ?",
+		"answers": ["pya"]
+    },
+    {
+		"question": "What combo hiragana is this: ぴゅ?",
+		"answers": ["pyu"]
+    },
+    {
+		"question": "What combo hiragana is this: ぴょ?",
+		"answers": ["pyo"]
+    }
+]
