@@ -12,12 +12,12 @@ module.exports = {
         };
 
         message.channel.send(item.question).then(() => {
-            message.channel.awaitMessages(filter, { max: 1, time: 30000, errors: ['time'] })
+            message.channel.awaitMessages(filter, { max: 1, time: 10000, errors: ['time'] })
                 .then(collected => {
                     message.channel.send(`${collected.first().author} correct!`);
                 })
                 .catch(collected => {
-                    message.channel.send('The Answer is: ');
+                    message.channel.send('The Answer is: ' + item.answer);
                 });
         });
     },
