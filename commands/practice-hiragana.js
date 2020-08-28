@@ -17,7 +17,7 @@ module.exports = {
                     message.channel.send(`${collected.first().author} correct!`);
                 })
                 .catch(collected => {
-                    message.channel.send('The answer was' + item.answer);
+                    message.channel.send('The answer was ' + item.answer);
                 });
         });
 	},
